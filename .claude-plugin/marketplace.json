@@ -1,0 +1,19 @@
+{
+  "name": "lesgooo",
+  "owner": {
+    "name": "lesgooo.fun",
+    "url": "https://lesgooo.fun/"
+  },
+  "metadata": {
+    "description": "Official lesgooo.fun plugin for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "lesgooo",
+      "source": "./plugins/lesgooo",
+      "description": "No-signup group planning: dates and free hours, places, RSVPs, checklists and shared costs on one link.",
+      "category": "productivity",
+      "homepage": "https://lesgooo.fun/agents/claude/"
+    }
+  ]
+}
