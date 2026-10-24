@@ -36,7 +36,8 @@ Don’t put passwords, payment-card details, health data or other sensitive info
 
 - Guide: https://lesgooo.fun/agents/claude/
 - Tools: https://lesgooo.fun/agents/tools/
-- Privacy: https://lesgooo.fun/cookies · Terms: https://lesgooo.fun/terms
+- Privacy policy: https://lesgooo.fun/cookies
+- Terms of service: https://lesgooo.fun/terms
 - Support: lesgooofun@gmail.com
 
 The MIT license covers the files in this repository only, not the lesgooo service.

@@ -16,5 +16,9 @@
     "rsvp",
     "expenses",
     "places"
-  ]
+  ],
+  "privacyPolicyUrl": "https://lesgooo.fun/cookies",
+  "termsOfServiceUrl": "https://lesgooo.fun/terms",
+  "supportUrl": "mailto:lesgooofun@gmail.com",
+  "documentationUrl": "https://lesgooo.fun/agents/claude/"
 }
