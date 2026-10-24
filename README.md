@@ -2,7 +2,7 @@
 
 Plan things with friends from Claude Code. [lesgooo.fun](https://lesgooo.fun/) is a free group planner without accounts: one link holds the group's dates and exact free hours, places with votes, the agreed event with RSVPs, a checklist and shared costs. Friends answer in any browser, without Claude or an account.
 
-This plugin connects Claude Code to the hosted lesgooo MCP server (`https://lesgooo.fun/mcp`). It contains no code, only the connection settings.
+This plugin connects Claude Code to the hosted lesgooo MCP server (`https://lesgooo.fun/mcp`). It contains no code: the connection settings and a short skill that explains how Claude should use the lesgooo tools.
 
 ## Install
 
