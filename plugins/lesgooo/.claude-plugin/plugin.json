@@ -9,5 +9,14 @@
   "homepage": "https://lesgooo.fun/agents/claude/",
   "repository": "https://github.com/hnn22/lesgooo-claude-plugin",
   "license": "MIT",
-  "keywords": ["group planning", "scheduling", "availability", "rsvp", "expenses", "places"]
+  "keywords": [
+    "group planning",
+    "scheduling",
+    "availability",
+    "rsvp",
+    "expenses",
+    "places"
+  ],
+  "privacyPolicyUrl": "https://lesgooo.fun/cookies",
+  "icon": ".claude-plugin/icon.png"
 }
